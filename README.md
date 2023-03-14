@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/jjeongdong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjeongdong&theme=tokyonight" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjeongdong&theme=dark" height="180"/>
 </a>
 
 
