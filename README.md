@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjeongdong&theme=dark" height="180"/>
 </a>
 
-<br><br>
+
 
 ## Blog
 https://velog.io/@jjeongdong
