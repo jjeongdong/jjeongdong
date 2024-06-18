@@ -38,10 +38,16 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Blog </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@jjeongdong> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jjeongdong"> </a>
           </div>  <br> 
+
+## 📃 Certificate
+        
+- 정보처리기사 (2024/06) 
+<br>
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jjeongdong&bg_color=180,00000000,&title_color=000000&text_color=000000"
          />  </div> 
     </div>
-    
+
+
