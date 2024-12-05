@@ -29,6 +29,6 @@
 <br>
 
 ### Statistics
-<div width="100%">
-<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=oehdgns9378"/>
-</div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oehdgns9378)](https://solved.ac/oehdgns9378/)
+
